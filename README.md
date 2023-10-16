@@ -5,7 +5,6 @@ This Matlab toolbox allows for the identification of an autoregressive (AR) mode
 
 [2]-**Y Antonacci** al., "Time-Varying Information Measures: An Adaptive Estimation of Information Storage with Application to Brain-Heart Interactions." Frontiers in Network Physiology 3: 1242505.
 
-
 [3]- L. Barnett et al., Granger causality and transfer entropy are equivalent for Gaussian variables. Physical review letters 103 (2009) 238701.
 
 The code is provided free of charge. It is neither exhaustively tested nor particularly well documented. The authors accept no liability for its use.
