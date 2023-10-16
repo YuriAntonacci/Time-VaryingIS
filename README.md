@@ -3,7 +3,8 @@ This Matlab toolbox allows for the identification of an autoregressive (AR) mode
 
 [1]-E. Moller et al., Instantaneous multivariate eeg coherence analysis by means of adaptive high-dimensional autoregressive models. Journal of neuroscience methods 105 (2001) 143–158
 
-[2]-**Y Antonacci** al., Time-varying Information measures: an adaptive estimation of information storage with application to brain-heart interactions  
+[2]-**Y Antonacci** al., "Time-Varying Information Measures: An Adaptive Estimation of Information Storage with Application to Brain-Heart Interactions." Frontiers in Network Physiology 3: 1242505.
+
 
 [3]- L. Barnett et al., Granger causality and transfer entropy are equivalent for Gaussian variables. Physical review letters 103 (2009) 238701.
 
